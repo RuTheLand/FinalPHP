@@ -1,0 +1,48 @@
+body {
+    background-color: #c29b61;
+}
+header{
+    background-color: rgb(51, 155, 51);
+    text-align: center;
+    border:solid;
+    border-color: lightgreen;
+    top: 0%;
+    left: 0%;
+    right: 100px;
+}
+table{
+    background-color: rgb(194, 241, 194);
+    width: 100%;
+    border-color: green;
+}
+footer{
+    background-color: #804000;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    padding-left: 10px;
+}
+nav{
+    background-color: lightgreen;
+    border:solid;
+    border-color: lightgreen;
+    text-align: center;
+    left: 0%;
+}
+a{
+    color: lightgreen;
+    background-color: darkgreen;
+    border-radius: 13%;
+    text-decoration: none;
+}
+input[type=submit]{
+    background-color: #ccc3c3;
+    
+}
+table input[type=submit]{
+    width: 100%;
+    height: auto;
+}
+p{
+    font-size: large ;
+}
